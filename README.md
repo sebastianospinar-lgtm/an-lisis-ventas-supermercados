@@ -4,7 +4,7 @@ Proyecto de análisis exploratorio de datos de ventas de una cadena de supermerc
 - Explorar la distribución de ventas, ganancias y descuentos.
 - Identificar los productos y categorías más rentables.
 - Analizar patrones de consumo por región, ciudad y segmento de clientes.
-- Visualizar los resultados con gráficos claros y fáciles de interpretar
+- Visualizar los resultados con gráficos claros y fáciles de interpretar.
 - ## Conjunto de datos
 El dataset contiene información de transacciones en múltiples sucursales de EE. UU. con las siguientes columnas principales:
 
