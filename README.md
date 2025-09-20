@@ -1,4 +1,4 @@
-# an-lisis-ventas-supermercados
+# Análisis-ventas-supermercados
 Proyecto de análisis exploratorio de datos de ventas de una cadena de supermercados en EE. UU.
 ## Objetivos del proyecto
 - Explorar la distribución de ventas, ganancias y descuentos.
