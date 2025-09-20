@@ -16,7 +16,7 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
 - **Descuento**: aplicado a la venta.
 - **Ganancia**: beneficio obtenido.
 
-- ##Tecnologías utilizadas
+##Tecnologías utilizadas
 - **Python**
   - pandas
   - matplotlib
