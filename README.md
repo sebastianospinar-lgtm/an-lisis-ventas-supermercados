@@ -16,7 +16,7 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
 - **Descuento**: aplicado a la venta.
 - **Ganancia**: beneficio obtenido.
 
-##Tecnologías utilizadas
+-**Tecnologías utilizadas**
 - **Python**
   - pandas
   - matplotlib
@@ -24,7 +24,7 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
   - plotly
 - **Jupyter Notebook**
 
-  ## 📈 Principales análisis realizados
+Principales análisis realizados
 1. **Distribución de las ventas y ganancias**  
    - Histogramas y boxplots para detectar outliers.  
 2. **Productos y categorías más rentables** 
@@ -39,11 +39,11 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
 
    - ## Ejemplo de visualizaciones
 <img width="1189" height="790" alt="Top10" src="https://github.com/user-attachments/assets/208666b7-dd70-4198-bb22-fc0364e6a950" />
-## Resultados clave
-- Se identificó que **la categoría de Tecnología es la de mayor ventas**, mientras que Muebles tiene ventas altas pero menor margen.  
-- **Los descuentos superiores al 20% disminuyen significativamente las ganancias.**  
-- La **Región Oeste concentra la mayor parte de las ventas**, pero el margen es más alto en la Región Central.  
-- El **Estado de California y New York son respectivamente los de mayores ganancias**
+- Resultados clave:
+- Se identificó que la categoría de Tecnología es la de mayor ventas, mientras que Muebles tiene ventas altas pero menor margen.  
+- Los descuentos superiores al 20% disminuyen significativamente las ganancias.
+- La Región Oeste concentra la mayor parte de las ventas, pero el margen es más alto en la Región Central.  
+- El Estado de California y New York son respectivamente los de mayores ganancias
 ---
 
 ## Próximos pasos
