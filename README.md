@@ -33,19 +33,20 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
    - Relación entre % de descuento y ganancia obtenida.  
 4. **Análisis geográfico**  
    - Ventas por región y estado, con gráficos de barras y mapas interactivos.  
-5. **Segmentación de clientes**  
+5. **Análisis por Segmento y Modo de Envío**  
    - Diferencias de consumo entre segmentos (ej. consumidor vs corporativo).
- 
-   - ## 📊 Ejemplo de visualizaciones
+   - Se analiza la popularidad y el impacto de los diferentes modos de envío en las ventas totales
+
+   - ## Ejemplo de visualizaciones
 <img width="1189" height="790" alt="Top10" src="https://github.com/user-attachments/assets/208666b7-dd70-4198-bb22-fc0364e6a950" />
-## 🚀 Resultados clave
-- Se identificó que **la categoría de Tecnología es la más rentable**, mientras que Muebles tiene ventas altas pero menor margen.  
+## Resultados clave
+- Se identificó que **la categoría de Tecnología es la de mayor ventas**, mientras que Muebles tiene ventas altas pero menor margen.  
 - **Los descuentos superiores al 20% disminuyen significativamente las ganancias.**  
 - La **Región Oeste concentra la mayor parte de las ventas**, pero el margen es más alto en la Región Central.  
-
+- El **Estado de California y New York son respectivamente los de mayores ganancias**
 ---
 
-## 📌 Próximos pasos
+## Próximos pasos
 - Implementar un modelo predictivo simple para estimar ventas futuras según región y categoría.  
 - Construir un dashboard en Power BI con estos datos.  
 
