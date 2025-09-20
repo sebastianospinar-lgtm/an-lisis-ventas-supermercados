@@ -27,7 +27,7 @@ El dataset contiene información de transacciones en múltiples sucursales de EE
   ## 📈 Principales análisis realizados
 1. **Distribución de las ventas y ganancias**  
    - Histogramas y boxplots para detectar outliers.  
-2. **Productos y categorías más rentables**  
+2. **Productos y categorías más rentables** 
    - Ranking de top 10 en ventas y ganancias.  
 3. **Impacto del descuento en la rentabilidad**  
    - Relación entre % de descuento y ganancia obtenida.  
